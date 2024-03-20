@@ -1,4 +1,4 @@
-<h1>Begineer level Projects for SOC Analyst</h1>
+<h1>Cybersecurity detection and monitoring labs for SOC Analyst</h1>
 
 ## Second Project 
 
