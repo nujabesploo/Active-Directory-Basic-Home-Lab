@@ -1,13 +1,6 @@
-## Beginner level projects for becoming a SOC Analyst
+<h1>Begineer level Projects for SOC Analyst</h1>
 
-
-First Project 
---------------
-
-
-
-Second Project 
---------------
+## Second Project 
 
 
 Third Project
